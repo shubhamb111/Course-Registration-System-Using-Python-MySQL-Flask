@@ -1,1 +1,1 @@
-# Course_Registration_System_Using_Python_MySQL_Flask
+# Course-Registration-System-Using-Python-MySQL-Flask
